@@ -4,7 +4,7 @@
 
 （1）全平台支持：
 
-​    Android / iOS / Windows / MacOS / Linux / Steam / PS4 / **GPT**全支持
+​    Android / iOS / Windows / MacOS / Linux / Steam / PS4 / **GPT **全支持
 
  
 
