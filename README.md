@@ -86,5 +86,5 @@
 
 ## 五. CHATGPT使用
 
-梯子购买后需切换至美国地区，服务器地址 [t.91tianlu.pw](http://t.91tianlu.pw/) 替换成 [a.91tianlu.pw](http://a.91tianlu.pw/) ，代理模式改成全局模式，清理浏览器缓存，用浏览器无痕模式访问chatgpt网站。
+梯子购买后需切换至美国地区，服务器地址 [t.91tianlu.pw](http://t.91tianlu.pw/) 替换成 [a.91tianlu.pw](http://a.91tianlu.pw/) ，代理模式改成全局模式，清理浏览器缓存，用浏览器无痕模式访问chatGPT网站。
 
